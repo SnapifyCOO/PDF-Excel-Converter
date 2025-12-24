@@ -1,0 +1,7 @@
+{
+  "name": "Copy of PDF to Excel Pro",
+  "description": "A high-fidelity document converter that uses Gemini AI to extract structured data from PDFs and images, preserving formatting and layout into a multi-sheet Excel (.xlsx) workbook.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
